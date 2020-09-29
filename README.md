@@ -12,7 +12,7 @@ This is a Spotify Webpage clone made using **React** and **Spotify API's**.
 ### Objectives:  
 * Design a **impressive** UI using react.js.  
 * Consume **3rd party API's**(Spotify).  
-* Make a **well structured** project which is **easy to debug** and **scalable**.  
+* Make a **well structured** project which is **easy to debug** and is **scalable**.  
   
 ![First Image](/public/Sample2.png?raw=true "First Image")
 

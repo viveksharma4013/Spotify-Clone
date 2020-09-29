@@ -14,9 +14,9 @@ This is a Spotify Webpage clone made using **React** and **Spotify API's**.
 * Consume **3rd party API's**(Spotify).  
 * Make a **well structured** project which is **easy to debug** and **scalable**.  
   
-![Alt text](/public/Sample2.png?raw=true "Optional Title")
-  
-    
+![First Image](/public/Sample2.png?raw=true "First Image")
+
+![Second Image](/public/Sample1.png?raw=true "Second Image")    
 
 ### Future Scope:  
 1.Add search feature and home pages.  
